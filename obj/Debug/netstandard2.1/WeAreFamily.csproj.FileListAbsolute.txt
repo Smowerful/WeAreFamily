@@ -54,7 +54,6 @@ C:\Users\j.friesen\WeAreFamily\bin\Debug\netstandard2.1\System.Runtime.CompilerS
 C:\Users\j.friesen\WeAreFamily\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Users\j.friesen\WeAreFamily\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Users\j.friesen\WeAreFamily\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
-C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\WeAreFamily.csprojAssemblyReference.cache
 C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\WeAreFamily.AssemblyInfoInputs.cache
 C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\WeAreFamily.AssemblyInfo.cs
 C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\WeAreFamily.csproj.CoreCompileInputs.cache
@@ -87,3 +86,5 @@ C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\WeAreFamily.dll
 C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\WeAreFamily.pdb
 C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
 C:\Users\j.friesen\WeAreFamily\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\j.friesen\WeAreFamily\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\j.friesen\WeAreFamily\bin\Debug\netstandard2.1\dist\_framework\_bin\WeAreFamily.pdb
